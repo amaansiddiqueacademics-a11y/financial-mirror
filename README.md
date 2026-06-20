@@ -1,3 +1,10 @@
+# Financial Analytics Data Pipeline
+
+**Name:** Amaan Siddique  
+**Batch:** B  
+**Roll Number:** 24101A0025  
+
+---
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
